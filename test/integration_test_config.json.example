@@ -1,0 +1,5 @@
+{
+  "login":"YOUR API LOGIN",
+  "password":"YOUR API PASSWORD",
+  "channel_token":"YOUR API CHANNEL_TOKEN"
+}
